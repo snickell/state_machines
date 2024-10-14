@@ -1,7 +1,7 @@
 require_relative 'lib/state_machines/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'state_machines'
+  spec.name          = 'state_machine'
   spec.version       = StateMachines::VERSION
   spec.authors       = ['Abdelkader Boudih', 'Aaron Pfeifer']
   spec.email         = %w(terminale@gmail.com aaron@pluginaweek.org)
